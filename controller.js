@@ -7,3 +7,6 @@ const limparFormulrio = (endereco) =>{
    document.getElementById('cidade').value ='';
    document.getElementById('estado').value ='';
 }
+
+//Verifiva se CEP é válido
+const eNumero =(eNumero) => /^[0-9]+$/.test(numero);
