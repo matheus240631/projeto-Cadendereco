@@ -17,7 +17,6 @@ aberta o google escrive na pesquisa nome bootstrap site vai copia code para aber
 * javascript   
 
 ## 📄 fontes consultadas
-* * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
 * [Boststrap] https://getbootstrap.com/
 
 
