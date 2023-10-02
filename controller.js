@@ -9,7 +9,7 @@ const limparFormulrio = (endereco) =>{
 }
 
 //Verifiva se CEP é válido
-const eNumero =(eNumero) => /^[0-9]+$/.test(numero);
+const eNumero =(eNumero) => /^[0-9]+$/.test(eNumero);
 const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 
 // Preenche campos do formulário
@@ -25,5 +25,21 @@ utilizando a função assincrona
 */
 const pesquisarcep = async() =>{
     limparFormulrio();
-    const url = `http://viacep.com.br/ws/${cep.value}/json/`;   
-}
+    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+   if (cepValido(cep.value)){ 
+      const dados = await fetch(url);
+      const addres = await dados.json();
+      
+      if(addres.hasownpropety ('erro')){
+         alert('cep não encontrado');
+         
+      }else{
+         preencherformulário(addres);
+      }
+   }else{
+     alert('CEP incorreto'); 
+   }
+} 
+
+// Adiciona um evento CEP, no imput CEP
+document.getElementById('cep').addEventListener('focusout',pesquisarcep);
