@@ -10,16 +10,16 @@ o projeto-cadendereco depois entre google com um site bootstrap para copia code 
 aberta o google escrive na pesquisa nome bootstrap site vai copia code para aberta VScode clone code pegou site bootstrap depois faz para mese col pequeno texto.
 
 `Funcionalidade 1` - Ao digitar o CEP os campos RUA, BAIRRO, CIDADE e ESTADO são preenchidos automaticamente.
-![img](img/Caputa de tela.png)
+![img](img/CEP.png)
 
 `Funcionalidade 2` - Se o usuário não digitar um CEP válido, o formulário alertará sobre o erro dizendo que o CEP não foi encontrado.
-
+![img](img/CEP incorreto.png)
 
 `Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.
-
+![img](img/CEP não incompleto.png)
 
 `Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.
-
+![img](img/CEP no campo não apropriado.png)
 
 
 ### 🛠️ Construído
