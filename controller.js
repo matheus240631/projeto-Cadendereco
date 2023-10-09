@@ -15,7 +15,7 @@ const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 // Preenche campos do formulário
 const preencherformulário = (endereco) =>{
    document.getElementById('rua').value= endereco.logradouro;
-   document.getElementById('bairro').value= endereco.bairro ;
+   document.getElementById('bairro').value= endereco.bairro ; 
    document.getElementById('cidade').value= endereco.localidade;
    document.getElementById('uf').value= endereco.uf;
 }
