@@ -13,13 +13,13 @@ aberta o google escrive na pesquisa nome bootstrap site vai copia code para aber
 ![img](img/CEP.png)
 
 `Funcionalidade 2` - Se o usuário não digitar um CEP válido, o formulário alertará sobre o erro dizendo que o CEP não foi encontrado.
-![img](img/CEP errado .png)
+![img](img/CEPválido.png)
 
 `Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEP não incompleto.png)
+![img](img/CEPincompleto.png)
 
 `Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEP no campo apropriado.png)
+![img](img/CEPnocampoapropriado.png)
 
 
 ### 🛠️ Construído
