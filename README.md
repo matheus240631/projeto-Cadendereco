@@ -19,7 +19,7 @@ aberta o google escrive na pesquisa nome bootstrap site vai copia code para aber
 ![img](img/CEP não incompleto.png)
 
 `Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEP no campo não apropriado.png)
+![img](img/CEP no campo apropriado.png)
 
 
 ### 🛠️ Construído
