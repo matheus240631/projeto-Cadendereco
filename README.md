@@ -16,7 +16,7 @@ aberta o google escrive na pesquisa nome bootstrap site vai copia code para aber
 ![img](img/CEPErrado.mp4)    
 
 `Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEPincompleto.mp4)    
+![img](img/CEPIncompleto.mp4)    
 
 `Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.
 ![img](img/CEPcampoapropriado.mp4)    
