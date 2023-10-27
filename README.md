@@ -9,19 +9,25 @@ o projeto-cadendereco depois entre google com um site bootstrap para copia code 
  ## 🔧 funcionalidades
 aberta o google escrive na pesquisa nome bootstrap site vai copia code para aberta VScode clone code pegou site bootstrap depois faz para mese col pequeno texto.
 
-`Funcionalidade 1` - Ao digitar o CEP os campos RUA, BAIRRO, CIDADE e ESTADO são preenchidos automaticamente.
-![img](img/CEP.mp4)    
+`Funcionalidade 1` - Ao digitar o CEP os campos RUA, BAIRRO, CIDADE e ESTADO são preenchidos automaticamente.   
+<video controls>
+    <source src="img/CEP.mp4" type="video/mp4">
+</video>
 
 `Funcionalidade 2` - Se o usuário não digitar um CEP válido, o formulário alertará sobre o erro dizendo que o CEP não foi encontrado.
-![img](img/CEPErrado.mp4)    
-
-`Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEPIncompleto.mp4)    
-
-`Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.
-![img](img/CEPcampoapropriado.mp4)    
+<video controls>
+    <source src="img/CEPErrado.mp4" type="video/mp4">
+</video>
 
 
+`Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.   
+<video controls>
+    <sourece src="img/CEP.mp4" type="video/mp4">
+</video>
+`Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.   
+<video controls>
+      <sourece src="img/CEPcampoapropriado.mp4" type="video/mp4>
+</video>
 ### 🛠️ Construído
 * HTML5        
 * Javascript  
