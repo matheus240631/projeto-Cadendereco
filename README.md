@@ -19,17 +19,14 @@ aberta o google escrive na pesquisa nome bootstrap site vai copia code para aber
     <source src="img/CEPErrado.mp4" type="video/mp4">
 </video>
 
-
 `Funcionalidade 3` - Se o usuário informar um número de CEP incompleto, a aplicação alertará dizendo que o número de CEP é incorreto.   
 <video controls>
-    <source src="img/CEPincopleto.mp4" type="video/mp4">
+    <source src="CEPincompleto.mp4" type="video/mp4">
 </video>
-
-
 
 `Funcionalidade 4` - Se o usuário não informar um CEP no campo apropriado, a aplicação alertará dizendo que o número de CEP é incorreto.   
 <video controls>
-      <sourece src="img/CEPcampoapropriado.mp4" type="video/mp4">
+    <source src="img/CEPcampoapropriado.mp4" type="video/mp4">
 </video>
 
 ### 🛠️ Construído
